@@ -12,10 +12,6 @@ This project uses machine learning to predict whether a loan application will be
 1. [Project Overview](#project-overview)
 2. [Dataset Description](#dataset-description)
 3. [Libraries and Dependencies](#libraries-and-dependencies)
-4. [Steps to Reproduce](#steps-to-reproduce)
-5. [Model Evaluation](#model-evaluation)
-6. [Feature Importance](#feature-importance)
-7. [License](#license)
 
 ---
 
