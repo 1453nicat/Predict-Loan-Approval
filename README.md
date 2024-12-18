@@ -10,7 +10,6 @@ This project uses machine learning to predict whether a loan application will be
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
-2. [Dataset Description](#dataset-description)
 3. [Libraries and Dependencies](#libraries-and-dependencies)
 
 ---
